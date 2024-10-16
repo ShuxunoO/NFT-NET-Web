@@ -1,0 +1,1 @@
+# NFT project model (includes metadata)
